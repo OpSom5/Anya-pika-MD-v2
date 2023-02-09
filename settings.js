@@ -19,7 +19,7 @@ global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
 global.state = "Assam" // your state name
-global.district = "Hailakandi" // your district name
+global.district = "Gawhati" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
 global.instagramId = "nex_xer_69" // Your insta ID
 global.email = "example@exmaple.com" // put your email here
@@ -49,9 +49,9 @@ tag1 = '𝘏𝘦𝘺 𝘦𝘷𝘦𝘳𝘺𝘣𝘰𝘥𝘺😚, 𝘊𝘰𝘮𝘦 
 tag2 = '𝘖𝘺𝘦 𝘦𝘷𝘦𝘳𝘺𝘰𝘯𝘦!! 𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?😐' 
 tag3 = '𝘈𝘣𝘦𝘺 𝘰𝘯𝘭𝘪𝘯𝘦 𝘢𝘢𝘰 𝘺𝘢𝘢𝘳!😑' 
 tag4 = 'Kya Haal Chaal,Saab Kushal Mangal?.😚' 
-tag5 = '𝘠𝘢𝘢𝘳 𝘬𝘺𝘢 𝘉𝘰𝘵 𝘩𝘢𝘪❤️' 
+tag5 = 'Andi Mandi Sandi Jo Message na Kara Uski....🐧' 
 tag6 = '𝘐𝘵𝘯𝘢 𝘮𝘻𝘢 𝘬𝘺𝘶 𝘢𝘢 𝘳𝘩𝘢 𝘩𝘢𝘪...𝘛𝘶𝘯𝘦 𝘩𝘢𝘸𝘢 𝘮𝘦 𝘣𝘩𝘢𝘯𝘨 𝘮𝘪𝘭𝘢𝘺𝘢 𝘩𝘢𝘪!🥵' 
-tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?' 
+tag7 = '𝘞𝘩𝘦𝘳𝘦 𝘢𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?🗿' 
 tag8 = '𝘏𝘦𝘺 𝘸𝘩𝘦𝘳𝘦 𝘺𝘰𝘶 𝘢𝘭𝘭?...𝘤𝘰𝘮𝘦 𝘩𝘦𝘳𝘦 𝘨𝘶𝘺𝘴 𝘶𝘴𝘦 𝘵𝘩𝘪𝘴 𝘖𝘗 𝘉𝘰𝘵!🔥' 
 tag9 = '𝘠𝘰𝘶 𝘢𝘭𝘭 𝘴𝘩𝘰𝘶𝘭 𝘵𝘳𝘺 𝘵𝘩𝘪𝘴 𝘤𝘶𝘵𝘦 𝘈𝘯𝘺𝘢❤️🍫' 
 tag10 = '𝘈𝘺𝘰𝘰 𝘈𝘯𝘺𝘢 𝘪𝘴 𝘉𝘦𝘴𝘵!!😚' 
@@ -68,9 +68,9 @@ global.mess = {
     wait: "I'm progressing your command❤️, Please wait Sir......",
     linkm: 'Abey where is the link...?',
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
-    sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
+    sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for Nexxer Sama.", 
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the Nexxer Sama🐧, if you want to be 𝘂𝗻𝗯𝗮𝗻𝗻𝗲𝗱, chat with nexxer.',
+    ban: 'You have been banned by the Ayna Sama🐧, if you want to be 𝘂𝗻𝗯𝗮𝗻𝗻𝗲𝗱, chat with Nexxer Sama.',
     nsfw: 'The nsfw feature has not been activated, Bc padhai likhai karo 𝗜𝗔𝗦 - 𝗬𝗔𝗦 bano lekin nhii tumhe to nudity dekhni hai 👏',
     banChat: 'The bot was banned 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗴𝗿𝗼𝘂𝗽!, please contact the owner to unban.'
 }
