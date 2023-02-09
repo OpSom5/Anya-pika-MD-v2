@@ -29,7 +29,7 @@ global.email = "example@exmaple.com" // put your email here
 global.premium = ['916900******','917355******']  // available soon
 global.sudo = ['916900******','917355******']  // Co - Owners //
 
-global.prefa = ['-','🐧','🔥']
+global.prefa = ['!','🐧','🔥']
 
 //--------Random bot name for Info section--------\\
 name16 = "𓄂⍣⃝ 🇦𝚗𝚢𝚊 𓆩×͜×𓆪ꪾ️"
@@ -65,7 +65,7 @@ global.mess = {
     group: "Baka !!!!!\nYou can't use this command in a 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁 !😑",
     private: 'Such a baka !!\nThis command is only for 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀. 🥲',
     bot: "This Feature Is Only For Nexxer... and you're not a Sama.",
-    wait: "I'm progressing your command❤️, Please wait Nigga......",
+    wait: "I'm progressing your command❤️, Please wait Sir......",
     linkm: 'Abey where is the link...?',
     error: 'I got an 𝗲𝗿𝗿𝗼𝗿!!',
     sudo: "*Hey User 👋....*\nYou can't use this command because this command is only for my co-owner.", 
